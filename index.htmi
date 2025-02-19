@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abby's Github Website</title>
+  </head>
+  <body>
+    <header>
+      <h1>Abby's Github Website</h1>
+    </header>
+    <main>
+      <p>Hello, this is my dirst Github website curated for my assignment. I will be using this repository to further my understanding in my Computer Science Principles class at Metropolitan State University of Denver.</p>
+    </main>
+  </body>
+</html>
